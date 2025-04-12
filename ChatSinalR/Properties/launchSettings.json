@@ -1,24 +1,8 @@
 ﻿{
-  "iisSettings": {
-    "windowsAuthentication": false,
-    "anonymousAuthentication": true,
-    "iisExpress": {
-      "applicationUrl": "http://localhost:2692",
-      "sslPort": 44376
-    }
-  },
   "profiles": {
-    "ChatSinalR": {
+    "http": {
       "commandName": "Project",
-      "launchBrowser": true,
-      "applicationUrl": "https://localhost:7122;http://localhost:5138",
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
-    },
-    "IIS Express": {
-      "commandName": "IISExpress",
-      "launchBrowser": true,
+      "applicationUrl": "http://localhost:7001",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

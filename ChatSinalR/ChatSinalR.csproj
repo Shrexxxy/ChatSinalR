@@ -28,8 +28,4 @@
       <_ContentIncludedByDefault Remove="ClientApp\package.json" />
       <_ContentIncludedByDefault Remove="ClientApp\public\manifest.json" />
     </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="Hubs\" />
-    </ItemGroup>
 </Project>
